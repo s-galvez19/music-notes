@@ -1,0 +1,70 @@
+
+.piano{
+    bottom: 1px;
+    border: 1px solid  rgb(238, 233, 233); 
+    display: flex;
+    min-width: 35vw;
+    max-width: 35vw;
+    margin-left: 20px;
+    height: 20vw;
+    background-color:white;
+}
+
+
+
+body {
+    background-image: url(https://recursivearts.com/virtual-piano/TemplateData100/realistic-3d-piano-keyboard.jpg);
+    background-size:cover;
+    margin: 0px;
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+}
+
+
+
+
+
+div.pianoKeys {
+    width: 1024px;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 0px;
+    cursor: pointer;
+    color: rgb(238, 222, 222);
+}
+
+div.key {
+    background-color: #FFF;
+    float: left;
+    width: 90px;
+    height: 400px;
+    float: left;
+    margin: 0px;
+    border: 1px solid #1a1818;
+    color: #ee0606;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 -10px 2px #1b1414 inset, 0 -60px 40px 10px #EEEEEE inset;
+    clip: auto;
+
+    
+} 
+
+div.sharpText {
+    bottom: -200px;
+}
+
+h1 {
+    color: rgb(236, 231, 231);
+    
+
+}
+
+
+
+
+
+
+
+
+
+
